@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Allicia Rocha, tenho 20 anos e sou do Espírito Santo. Estou cursando Sistemas de Informação no IFES (Instituto Federal do Espírito Santo) e sou apaixonada por tecnologia. Meu objetivo é usar meu conhecimento para criar soluções inovadoras que façam a diferença!
+Me chamo Allicia Rocha, tenho 20 anos e sou do Espírito Santo. Estou cursando Sistemas de Informação no IFES (Instituto Federal do Espírito Santo) e sou apaixonada por tecnologia. Meu objetivo é usar meu conhecimento para criar soluções inovadoras que façam a diferença! 🚀
 
 ---
 ### 🤖 Linguagens e Tecnologias
