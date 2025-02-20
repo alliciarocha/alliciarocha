@@ -5,23 +5,14 @@ Estudando Java Script
 
 <div style="display: flex; align-items: center; gap: 10;">
   <a href="https://github.com/alliciarocha">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=alliciarocha&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=alliciarocha&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=alliciarocha&show_icons=true" height="200" />
-    </picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=alliciarocha&show_icons=true&theme=dark" height="200" />
   </a>
-  
+
   <a href="https://github.com/alliciarocha">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alliciarocha" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alliciarocha&theme=dark" height="200" />
   </a>
 </div>
+
 
 
 <div style="display: inline_block"><br>
