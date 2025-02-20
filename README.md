@@ -3,7 +3,7 @@ Hoje estou cursando Sistemas da Informação
 Estudando Java Script
 ##
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 10;">
   <a href="https://github.com/alliciarocha">
     <picture>
       <source
