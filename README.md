@@ -1,15 +1,5 @@
 ## Oiii eu sou a Allicia Rocha!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,\n
-
-adddad
-- ∧,,,∧ 
-- (  ̳• · • ̳) 𝐁𝗂ⱺ 
-/    づ• • • • • • • • • 
-│𖦹꒰ 🍰꒱@ur-user
-│#꒰ 🎧꒱''urtext ''
-╰┈➤ ¡¡꒰ 🕯꒱𝚰 ᥣik𝖾:*stuff u like*
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
