@@ -3,7 +3,11 @@ Hoje estou cursando Sistemas da Informação
 Estudando Java Script
 ##
 
- ![Allicia Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+<div> 
+  <a href="https://github.com/alliciarocha">
+  <img height="180cm" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
