@@ -5,11 +5,11 @@ Estudando Java Script
 
 <div style="display: flex; align-items: center; gap: 10;">
   <a href="https://github.com/alliciarocha">
-    <img src="https://github-readme-stats.vercel.app/api?username=alliciarocha&show_icons=true&theme=dark" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alliciarocha&show_icons=true&theme=dracula" height="200" />
   </a>
 
   <a href="https://github.com/alliciarocha">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alliciarocha&theme=dark" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alliciarocha&theme=dracula" height="200" />
   </a>
 </div>
 
