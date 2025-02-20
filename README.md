@@ -1,6 +1,7 @@
 ## Oiii eu sou a Allicia Rocha!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
+Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,\n
+
 adddad
 - ∧,,,∧ 
 - (  ̳• · • ̳) 𝐁𝗂ⱺ 
