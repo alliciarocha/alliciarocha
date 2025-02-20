@@ -1,4 +1,4 @@
-## 👀 Olá, eu sou a Allicia Rocha!
+## Olá, eu sou a Allicia Rocha!
 - Hoje estou cursando Sistemas da Informação
 - Estudando Java Script
 - Pronome: ela/dela
