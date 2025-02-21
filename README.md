@@ -5,11 +5,12 @@
 Me chamo Allicia Rocha, tenho 20 anos e sou do Espírito Santo. Estou cursando Sistemas de Informação no IFES (Instituto Federal do Espírito Santo) e sou apaixonada por tecnologia. Meu objetivo é usar meu conhecimento para criar soluções inovadoras que façam a diferença! 🚀
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/allicia-rocha-677016272" 
-        target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        target="_blank">
+    <a href="https://www.linkedin.com/in/allicia-rocha-677016272"  target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
+    <a href = "mailto:allicia30300@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
