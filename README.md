@@ -7,7 +7,7 @@ Me chamo Allicia Rocha, tenho 20 anos e sou do Espírito Santo. Estou cursando S
 <p align="left">
     <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" 
         target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+        <img src="https://www.linkedin.com/in/allicia-rocha-677016272/&logoColor=white" 
         target="_blank">
     </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
