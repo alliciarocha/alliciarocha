@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Allicia Rocha!
 👩🏻‍💻 FullStack Developer with the goal of using my knowledge to create innovative solutions that make a difference!  
 👩🏻‍🎓 I am currently studying Information Systems at IFES  
-💭 Currently learning to work with embedded projects using ESP32 and MPU6050   
+💭 Currently working on Computer Vision projects 
 
 ---
 ## 🧰 Languages and Tools
